@@ -18,7 +18,7 @@ function switchGenre(){
 
 function showMafia(){
     mafia.classList.remove("hide");
-    btnSwitch.textContent = "Mafia"
+    btnSwitch.textContent = "Romcom"
 }
 
 function hideMafia(){
@@ -27,7 +27,7 @@ function hideMafia(){
 
 function showRomCom(){
     romcom.classList.remove("hide");
-    btnSwitch.textContent = "RomCom"
+    btnSwitch.textContent = "Mafia"
 }
 
 function hideRomCom(){
