@@ -1,3 +1,27 @@
 body {
-    background: rgb(166, 166, 187);
+    background: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+ul {
+    font-family: sans-serif;
+}
+
+.romcom {
+    font-style: italic;
+    color: darksalmon  ;
+}
+
+.mafia {
+    font-weight: bold;
+    color: white;
+}
+
+.list {
+    list-style: square;
+  }
+  
+
+  .MafiaTheme {
+      background-color: black;
   }
